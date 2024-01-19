@@ -2,7 +2,7 @@
 
 > Проект Maze с использованием Qt
 
-![viewer](../model/maze.png)
+![maze](model/maze.png)
 
 Для компиляции необходимо установить qmake
 
